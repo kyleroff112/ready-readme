@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a readme generator for any project!
+A simple readme generator for most projects!
 
 ## Table of Contents
 
@@ -19,11 +19,11 @@ This is a readme generator for any project!
 
 ## Installation
 
-Simply open the terminal, navigate to the folder containing the project files, type "npm install" into the terminal, and then type "node index.js" and follow the prompts!"
+Simply navigate to the folder.
 
 ## Usage
 
-Once you follow the prompts on screen everything should be completed for you.
+Open the folder in the terminal and type "node index.js"
 
 ## License
 
@@ -31,7 +31,7 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-undefined
+Please report all bug fixes to kyleroff112@gmail.com
 
 ## Tests
 
